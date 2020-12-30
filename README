@@ -1,0 +1,5 @@
+InstagramCalculator:
+
+Mini program that connects Instagram API.
+Which displays a variety of user account information options on likes, comments, followers and followings.
+Implemented in Python, and the GUI in Tkinter.
